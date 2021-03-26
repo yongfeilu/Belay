@@ -33,7 +33,9 @@ messaging app Slack. We'll call our version [Belay](https://en.wikipedia.org/wik
 ### Demo
 
 #### Login Page
-![img](https://github.com/yongfeilu/belay/tree/main/demo/login.png =100x70)
+
+<img src="https://github.com/yongfeilu/belay/tree/main/demo/login.png" width="200">
+
 #### Forget Password Page
 ![img](https://github.com/yongfeilu/belay/tree/main/demo/forgetpw.png)
 #### Sign Up Page
