@@ -41,7 +41,7 @@ messaging app Slack. We'll call our version [Belay](https://en.wikipedia.org/wik
 #### Chat Page
 ![img](https://github.com/yongfeilu/belay/tree/main/demo/chatpage.png)
 #### Create New Channel
-![img](https://github.com/yongfeilu/belay/tree/main/demo/CreateNewChannel.png)
+![img](https://github.com/yongfeilu/belay/tree/main/demo/createchannel.png)
 #### Thread Message
 ![img](https://github.com/yongfeilu/belay/tree/main/demo/threadpage.png)
 
