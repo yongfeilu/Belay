@@ -33,17 +33,17 @@ messaging app Slack. We'll call our version [Belay](https://en.wikipedia.org/wik
 ### Demo
 
 #### Login Page
-![img](https://github.com/ruixili/Belay/blob/master/demo/LoginPage.png)
+![img](https://github.com/yongfeilu/belay/tree/main/demo/login.png)
 #### Forget Password Page
-![img](https://github.com/ruixili/Belay/blob/master/demo/ForgetPassword.png)
+![img](https://github.com/yongfeilu/belay/tree/main/demo/forgetpw.png)
 #### Sign Up Page
-![img](https://github.com/ruixili/Belay/blob/master/demo/RegisterNewAccount.png)
+![img](https://github.com/yongfeilu/belay/tree/main/demo/signup.png)
 #### Chat Page
-![img](https://github.com/ruixili/Belay/blob/master/demo/ChatPage.png)
+![img](https://github.com/yongfeilu/belay/tree/main/demo/chatpage.png)
 #### Create New Channel
-![img](https://github.com/ruixili/Belay/blob/master/demo/CreateNewChannel.png)
+![img](https://github.com/yongfeilu/belay/tree/main/demo/CreateNewChannel.png)
 #### Thread Message
-![img](https://github.com/ruixili/Belay/blob/master/demo/Thread.png)
+![img](https://github.com/yongfeilu/belay/tree/main/demo/threadpage.png)
 
 
 ### Functions
