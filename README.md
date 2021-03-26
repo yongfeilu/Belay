@@ -35,15 +35,15 @@ messaging app Slack. We'll call our version [Belay](https://en.wikipedia.org/wik
 #### Login Page
 ![img](/demo/login.png)
 #### Forget Password Page
-![img](https://github.com/yongfeilu/belay/tree/main/demo/forgetpw.png)
+![img](/demo/forgetpw.png)
 #### Sign Up Page
-![img](https://github.com/yongfeilu/belay/tree/main/demo/signup.png)
+![img](/demo/signup.png)
 #### Chat Page
-![img](https://github.com/yongfeilu/belay/tree/main/demo/chatpage.png)
+![img](/demo/chatpage.png)
 #### Create New Channel
-![img](https://github.com/yongfeilu/belay/tree/main/demo/createchannel.png)
+![img](/demo/createchannel.png)
 #### Thread Message
-![img](https://github.com/yongfeilu/belay/tree/main/demo/threadpage.png)
+![img](/demo/threadpage.png)
 
 
 ### Functions
