@@ -4,7 +4,7 @@
 
 ### Introduction
 
-As a capstone project for Web Development, we're going to combine the various
+We're going to combine the various
 front-end and back-end techniques we've learned over the course to produce a
 modern, database-backed single-page application. Specifically, we'll be building
 our own (significantly smaller in scope) version of the popular workplace
